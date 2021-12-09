@@ -1,0 +1,16 @@
+body{
+    background-color:#c0c0c0;
+    }
+    .img1 {
+    display:flex;
+    justify-content: flex-end;
+    }
+    
+    .row{
+        display: flex;
+        flex-direction: row;
+    }
+    .col{
+        display: flex;
+        flex-direction: column;
+    }
